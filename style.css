@@ -1,0 +1,15 @@
+.calculator-container {
+width: 100vh;
+height:100vh;
+display: flex;
+justify-content: center;
+align-items : center;
+}
+.calculator {
+
+height:350px;
+width:180px;
+}
+.cal-buttons{
+    border: 1px solid;
+}
